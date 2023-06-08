@@ -1,1 +1,1 @@
-# C-Games
+# C++ Games
